@@ -1,6 +1,6 @@
 🔍 Searching
 
-704. Binary Search
+ Binary Search
 Given a sorted array nums and a target target, return its index if found, else -1. Must run in O(log n).
 Example: nums = [-1,0,3,5,9,12], target = 9 → 4
 
@@ -42,7 +42,7 @@ Example: matrix = [[1,3,5,7],[10,11,16,20],[23,30,34,60]], target=3 → true
 
 🔄 Sorting
 
-912. Sort an Array
+. Sort an Array
 Sort array using quicksort/mergesort/heap sort.
 Example: nums = [5,2,3,1] → [1,2,3,5]
 
